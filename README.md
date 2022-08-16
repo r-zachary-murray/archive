@@ -1,1 +1,1 @@
-# A permanent place of scripts that need to be publicly accessable.
+## A permanent place for scripts that need to be publicly accessable.
